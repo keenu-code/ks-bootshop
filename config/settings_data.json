@@ -34,7 +34,7 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "settings": {
-          "announcement": "<p>All Products are now back in stock!<\/p>",
+          "announcement": "<p>All products 30% off for spring sale<\/p>",
           "show": true,
           "homepage_only": true,
           "bg_color": "#343a40",
@@ -120,6 +120,7 @@
       },
       "161281990869fdf1c2": {
         "type": "collection-list",
+        "disabled": true,
         "blocks": {
           "172b7cd3-88f9-40fa-8018-0dc4ae8969b5": {
             "type": "collection",
