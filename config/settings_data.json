@@ -1057,8 +1057,8 @@
       "cart-template": {
         "type": "cart-template",
         "settings": {
-          "heading_size": "display-5",
-          "subheading": "<p>Free Shipping \/ 30 Days Guarantee<\/p>",
+          "heading_size": "display-3",
+          "subheading": "",
           "subheading_size": "",
           "img_width": "360",
           "img_height": "360",
