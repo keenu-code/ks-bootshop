@@ -2,9 +2,9 @@
   "current": {
     "color_primary": "#0d6efd",
     "color_secondary": "#767676",
-    "color_light": "#4e4e4e",
-    "color_body_bg": "#b1afaf",
-    "color_body_text": "#ffffff",
+    "color_light": "#fafafa",
+    "color_body_bg": "#fff",
+    "color_body_text": "#181818",
     "color_price": "#28a745",
     "color_badge_sold_out": "#dc3545",
     "color_badge_sale": "#ecff00",
@@ -49,7 +49,7 @@
             "settings": {
               "title": "Welcome to Byte Tech",
               "title_size": "h3",
-              "description": "<p>The home of LED accessories.<\/p>"
+              "description": "<p>The home of the best LED accessories.<\/p>"
             }
           },
           "16124340768622aa4c-1": {
