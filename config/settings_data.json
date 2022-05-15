@@ -886,6 +886,7 @@
         "blocks": {
           "c4c94464-ebb5-4d24-a49f-192eb027cc26": {
             "type": "richtext",
+            "disabled": true,
             "settings": {
               "heading": "About ByteTech",
               "description": "<p>The best LED and technology providers that  pride themselves on quality and aesthetics.<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" target=\"_blank\" title=\"https:\/\/plexedtech.myshopify.com\/collections\/all\">Browse Catalog »<\/a><br\/> <\/p>",
@@ -903,6 +904,7 @@
           },
           "84d98f57-a71d-49ea-a1a3-3fab0b59ff64": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "menu": "footer",
               "heading": "Footer menu",
@@ -912,6 +914,7 @@
           },
           "b4097452-7361-46b5-8f88-a21eaccf5c63": {
             "type": "social_menu",
+            "disabled": true,
             "settings": {
               "menu": "",
               "heading": "Follow us",
@@ -1018,9 +1021,10 @@
           },
           "a002179c-cc4b-44a0-b368-e843a497174b": {
             "type": "richtext",
+            "disabled": true,
             "settings": {
-              "title": "Rich text",
-              "description": "<p>Feel free to create additional blocks like this for <strong>Shipping, Payments, etc<\/strong> through the Shopify Theme editor. Also, you may easily adjust their order by dragging and dropping.<\/p>"
+              "title": "Shipping",
+              "description": ""
             }
           }
         },
@@ -1126,6 +1130,8 @@
           "show_description": false,
           "description_length": "70",
           "show_price": true,
+          "show_badge_sold_out": true,
+          "show_badge_sale": true,
           "row_": 2,
           "row_sm": 2,
           "row_md": 3,
