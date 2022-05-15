@@ -1,7 +1,9 @@
 {
   "current": {
     "color_primary": "#0d6efd",
-    "color_secondary": "#6c757d",
+    "color_secondary": "#767676",
+    "color_body_bg": "#363636",
+    "color_body_text": "#ffffff",
     "color_price": "#28a745",
     "color_badge_sale": "#dc3545",
     "font_headings": "sans-serif",
@@ -882,13 +884,14 @@
           "c4c94464-ebb5-4d24-a49f-192eb027cc26": {
             "type": "richtext",
             "settings": {
-              "heading": "About KS BootShop",
-              "description": "<p>The best Free Shopify Theme powered by Bootstrap framework, developed respecting Shopify Themes Requirements, optimized for maximum page-speed and that can be easily customized for any store.<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" title=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" target=\"_blank\">Download Themes »<\/a><br\/> <\/p>",
+              "heading": "About ByteTech",
+              "description": "<p>The best LED and technology providers that  pride themselves on quality and aesthetics.<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\/products\/ks-bootshop\" target=\"_blank\" title=\"https:\/\/plexedtech.myshopify.com\/collections\/all\">Browse Catalog »<\/a><br\/> <\/p>",
               "heading_size": "h5"
             }
           },
           "e00e2603-5c9c-4373-9917-00d8e58fb8f5": {
             "type": "richtext",
+            "disabled": true,
             "settings": {
               "heading": "About KondaSoft",
               "description": "<p>Premium Shopify Themes, that are awesome to your customers, blazing-fast in loading time and built-in with the necessary features to increase your store conversion rates (CVR) and average order value (AOV).<\/p><p><a href=\"https:\/\/www.kondasoft.com\/collections\/shopify-themes\">Browse Themes »<\/a><\/p>",
@@ -988,6 +991,8 @@
           "show_description": false,
           "description_length": "140",
           "show_price": true,
+          "show_badge_sold_out": true,
+          "show_badge_sale": true,
           "row_": 2,
           "row_sm": 2,
           "row_md": 3,
@@ -1131,6 +1136,13 @@
           "padding_bottom": 0,
           "margin_top": 0,
           "margin_bottom": 7
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "settings": {
+          "max_width": "768",
+          "heading_size": "display-5"
         }
       }
     },
