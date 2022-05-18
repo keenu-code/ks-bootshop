@@ -47,6 +47,7 @@
           "16124340768622aa4c-0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/led-stair-lighting.jpg",
               "title": "Welcome to Byte Tech",
               "title_size": "h3",
               "description": "<p>The home of the best LED accessories.<\/p>"
@@ -188,16 +189,17 @@
         "settings": {
           "container": true,
           "light_bg": false,
+          "img": "shopify:\/\/shop_images\/6ed27e9bd6a8d8d5b30e66d48f0110a39fef4828_original.jpg",
           "img_width": "720",
           "img_height": "720",
           "img_thumbnail": true,
           "img_alignment": "",
-          "heading": "Image with text",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "heading": "Our top product",
+          "subheading": "<p>Our classic RGB lights are a top seller.<\/p>",
           "heading_size": "h2",
           "subheading_size": "",
-          "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-          "btn_label": "Learn more",
+          "text": "<p>Many users love the easy to install and use RGB LED lights that fit the trend and impress. Our variations of our lights differentiates us from other lights. Giving our customers a custom feel.<\/p>",
+          "btn_label": "Shop now",
           "btn_url": "#",
           "btn_color": "btn-outline-primary",
           "btn_size": "",
@@ -212,15 +214,16 @@
         "settings": {
           "container": false,
           "section_height": "section-height-md",
+          "img": "shopify:\/\/shop_images\/newsthumb_20220504140959_Best-Products-for-an-Aesthetic-Gaming-Set-Up.webp",
           "overlay_style": "overlay-dark",
           "overlay_opacity": "overlay-opacity-25",
           "img_alignment": "image-with-text-overlay-img-center",
-          "heading": "Image with text overlay",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "heading": "Leaders in RGB distribution.",
+          "subheading": "<p>Why choose us?<\/p>",
           "heading_size": "h1",
-          "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+          "text": "<p>We instill a legacy within our brand. We pride ourselves with the quality and aesthetics of our products. <\/p>",
           "lead": true,
-          "btn_label": "Learn more",
+          "btn_label": "Find Products",
           "btn_url": "#",
           "btn_color": "btn-light",
           "btn_size": "btn-lg",
@@ -232,6 +235,7 @@
       },
       "1613034094b1e14cbd": {
         "type": "logo-list",
+        "disabled": true,
         "blocks": {
           "e1cf75d0-157b-4a2e-a182-2e4a6d5ef5a0": {
             "type": "logo",
@@ -306,6 +310,7 @@
       },
       "1613036274b5bc23d7": {
         "type": "gallery",
+        "disabled": true,
         "blocks": {
           "4542108e-43c9-4d88-b996-7fd9b750fad4": {
             "type": "image",
@@ -551,6 +556,7 @@
       },
       "161313402064cf991c": {
         "type": "text-columns-with-image",
+        "disabled": true,
         "blocks": {
           "161313402064cf991c-0": {
             "type": "content",
@@ -806,7 +812,7 @@
       "16136830093258d47c": {
         "type": "separator",
         "settings": {
-          "container": true,
+          "container": false,
           "bg_color": "#dee2e6",
           "margin_top": 8,
           "margin_bottom": 7
@@ -1153,6 +1159,32 @@
           "max_width": "768",
           "heading_size": "display-5"
         }
+      },
+      "165291604963598cbe": {
+        "type": "separator",
+        "settings": {
+          "container": true,
+          "bg_color": "#dee2e6",
+          "margin_top": 7,
+          "margin_bottom": 7
+        }
+      },
+      "1652916867db185c44": {
+        "type": "html",
+        "settings": {
+          "html": "<p class=\"alert alert-info\">Hello world!<\/p>",
+          "heading": "",
+          "subheading": "<p>Write something catchy for this section.<\/p>",
+          "container": true,
+          "light_bg": false,
+          "heading_size": "h2",
+          "subheading_size": "",
+          "heading_alignment": "text-center",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "margin_top": 0,
+          "margin_bottom": 7
+        }
       }
     },
     "content_for_index": [
@@ -1175,7 +1207,9 @@
       "1613737250d2b7859f",
       "16131223138a584ff0",
       "1613465098c76677b8",
-      "16134715004dcac0f0"
+      "16134715004dcac0f0",
+      "165291604963598cbe",
+      "1652916867db185c44"
     ]
   },
   "presets": {
