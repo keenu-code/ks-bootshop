@@ -86,7 +86,7 @@
         "settings": {
           "collection": "men",
           "heading": "Top Sellers.",
-          "subheading": "<p>This months most sold<\/p>",
+          "subheading": "<p>This months hottest items<\/p>",
           "limit": 3,
           "container": true,
           "light_bg": false,
