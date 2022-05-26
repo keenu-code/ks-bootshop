@@ -85,7 +85,7 @@
       "161243980752a5ed7a": {
         "type": "featured-collection",
         "settings": {
-          "collection": "men",
+          "collection": "frontpage",
           "heading": "Top Sellers.",
           "subheading": "<p>This months hottest items<\/p>",
           "limit": 3,
