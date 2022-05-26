@@ -226,7 +226,7 @@
           "text": "<p>We instill a legacy within our brand. We pride ourselves with the quality and aesthetics of our products. <\/p>",
           "lead": true,
           "btn_label": "Find Products",
-          "btn_url": "#",
+          "btn_url": "shopify:\/\/collections\/all",
           "btn_color": "btn-light",
           "btn_size": "btn-lg",
           "padding_top": 0,
