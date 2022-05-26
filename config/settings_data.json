@@ -469,7 +469,7 @@
         "settings": {
           "product": "rgb-tripod",
           "container": true,
-          "light_bg": false,
+          "light_bg": true,
           "badge": "Featured product",
           "badge_color": "bg-light text-secondary",
           "heading_size": "h2",
