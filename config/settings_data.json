@@ -520,8 +520,8 @@
           "16131300457e5a9b91-1": {
             "type": "testimonial",
             "settings": {
-              "text": "<p>I have been successfully running my store with KondaSoft&#x27;s theme, KS WatchShop for 2 months now, and I&#x27;m really impressed with the performance and speed it has. The speed-rank for my Shopify store has increased dramatically after I switched to this theme...<\/p>",
-              "name": "Jane Doe"
+              "text": "<p>I have been successfully running my store with KondaSoft's theme, KS WatchShop for 2 months now, and I'm really impressed with the performance and speed it has. The speed-rank for my Shopify store has increased dramatically after I switched to this theme...<\/p>",
+              "name": "Becky Marshall"
             }
           },
           "16131300457e5a9b91-2": {
@@ -680,6 +680,7 @@
       },
       "161346609112cd0f90": {
         "type": "video",
+        "disabled": true,
         "settings": {
           "heading": "Video",
           "subheading": "<p>Write something catchy for this section.<\/p>",
@@ -822,6 +823,7 @@
       },
       "161368561105e641b5": {
         "type": "faq",
+        "disabled": true,
         "blocks": {
           "161368561105e641b5-0": {
             "type": "text",
@@ -1170,23 +1172,6 @@
           "margin_top": 7,
           "margin_bottom": 7
         }
-      },
-      "1652916867db185c44": {
-        "type": "html",
-        "settings": {
-          "html": "<p class=\"alert alert-info\">Hello world!<\/p>",
-          "heading": "",
-          "subheading": "<p>Write something catchy for this section.<\/p>",
-          "container": true,
-          "light_bg": false,
-          "heading_size": "h2",
-          "subheading_size": "",
-          "heading_alignment": "text-center",
-          "padding_top": 0,
-          "padding_bottom": 0,
-          "margin_top": 0,
-          "margin_bottom": 7
-        }
       }
     },
     "content_for_index": [
@@ -1210,8 +1195,7 @@
       "16131223138a584ff0",
       "1613465098c76677b8",
       "16134715004dcac0f0",
-      "165291604963598cbe",
-      "1652916867db185c44"
+      "165291604963598cbe"
     ]
   },
   "presets": {
