@@ -190,7 +190,7 @@
         "type": "image-with-text",
         "settings": {
           "container": true,
-          "light_bg": false,
+          "light_bg": true,
           "img": "shopify:\/\/shop_images\/6ed27e9bd6a8d8d5b30e66d48f0110a39fef4828_original.jpg",
           "img_width": "720",
           "img_height": "720",
