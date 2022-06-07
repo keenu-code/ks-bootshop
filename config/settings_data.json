@@ -89,7 +89,7 @@
           "heading": "Top Sellers.",
           "subheading": "<p>This months hottest items<\/p>",
           "limit": 3,
-          "container": true,
+          "container": false,
           "light_bg": false,
           "heading_size": "h2",
           "heading_alignment": "text-center",
